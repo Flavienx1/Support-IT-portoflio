@@ -10,4 +10,4 @@ Montrer ma capacité à analyser un incident, appliquer une démarche de diagnos
 
 ## Labs disponibles
 
-- [Diagnostic d’un incident DNS](./01-Diagnostic-DNS)
+- Diagnostic d’un incident DNS
