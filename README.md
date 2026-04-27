@@ -12,4 +12,4 @@ Montrer ma capacité à analyser un incident, appliquer une démarche de diagnos
 
 - Diagnostic d’un incident DNS
 - Diagnostic d'un incident outlook
-- compte utilisateur bloqué 
+- [03 — Compte utilisateur bloqué](./03%20-Compte%20utilisateur%20bloqué.md) 
