@@ -10,6 +10,6 @@ Montrer ma capacité à analyser un incident, appliquer une démarche de diagnos
 
 ## Labs disponibles
 
-[01 — Diagnostic d’un incident DNS](./01%20-%20Diagnostic%20d’un%20incident%20DNS.md) 
+- [01 — Diagnostic d’un incident DNS](./01%20-%20Diagnostic%20d’un%20incident%20DNS.md) 
 - [02 — Diagnostic d’un incident Outlook](./02%20-Diagnostic%20d’un%20incident%20Outlook.md) 
 - [03 — Compte utilisateur bloqué](./03%20-Compte%20utilisateur%20bloqué.md) 
